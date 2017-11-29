@@ -1,0 +1,4 @@
+node_modules/
+*.log
+variables.env
+/configuration/index.js
